@@ -1,0 +1,39 @@
+body{
+    background-image: url('../images/sample.jpg');
+    background-color: #99FFCC;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.title{
+    color: red;
+    text-align: center;
+    background-image: url('../images/sample.jpg');
+}
+
+.sub_title{
+    color:blue;
+    background-color: #dcdc0b;
+    width: 55%;
+}
+
+.table_align{
+    text-align: center;
+    border-collapse: collapse;
+    padding: 20px;
+    margin: 25px;
+    border: 20px ridge rgb(110, 121, 239);
+}
+
+
+td,th{
+    height: 50px;
+}
+
+hr{
+    color: black;
+    width: 100%;
+    
+}
